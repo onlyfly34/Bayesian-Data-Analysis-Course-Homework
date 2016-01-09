@@ -8,5 +8,5 @@ Make plots like those in Figure 9.8, p. 237. You don’t have to make the annota
 
 #P.S.#
 
-![Figure 9.8](Figure 9.8.png =700x550 "Figure 9.8")
-![Figure 9.8](Equations 9.7 and 9.8.png =700x150 "Figure 9.8")
+<img src="Figure 9.8.png" height="550" width="700">
+<img src="Equations 9.7 and 9.8.png" height="150" width="700">
